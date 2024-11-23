@@ -38,6 +38,25 @@
   "name": "@dinkarjallan/rezilient-ui",
   "author": "dinkarjallan",
   "module": "dist/rezilient-ui.esm.js",
+  "keywords": [
+    "offline-first",
+    "rezilient app",
+    "rezilient",
+    "network ui",
+    "retry-ui",
+    "background-sync",
+    "offline-components",
+    "network-status",
+    "react-components",
+    "error-boundaries",
+    "frontend-ui",
+    "offline state-management",
+    "ui-state-management",
+    "offline-sync",
+    "fallback-ui",
+    "network-indicators",
+    "react-hooks"
+  ],
   "size-limit": [
     {
       "path": "dist/rezilient-ui.cjs.production.min.js",
